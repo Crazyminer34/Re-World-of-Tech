@@ -171,7 +171,7 @@
 	<li><a href="https://modrinth.com/mod/laNoi025">Screenshot Viewer</a> [1.3.3-fabric-mc1.21] by LGatodu47</li>
 	<li><a href="https://modrinth.com/mod/1KiJRrTg">Screenshot to Clipboard</a> [1.0.10] by comp500</li>
 	<li><a href="https://www.curseforge.com/projects/321283">SimpleTextOverlay</a> [5.2.2.1] by wendall911</li>
-	<li><a href="https://modrinth.com/mod/DlSXkZVT">SleepWarp (Updated)</a> [2.4.0+1.21.1] by thegiggitybyte (Original Creator), Patbox (Updating and release), Motschen (Update to 1.21, new config)</li>
+	<li><a href="https://modrinth.com/mod/DlSXkZVT">SleepWarp (Updated)</a> [2.4.0+1.21.1] by thegiggitybyte (Original Creator), Patbox (Updating and release)</li>
 	<li><a href="https://modrinth.com/mod/WVehudAZ">SmartBlockPlacement</a> [1.5] by Ender_Fake</li>
 	<li><a href="https://modrinth.com/mod/ngOW5XvY">Smooth Menu</a> [1.1.0] by BookerCatch, shizotoaster</li>
 	<li><a href="https://modrinth.com/mod/CllP7wW0">Smooth Scroll</a> [2.2.1] by SlovakSmileSK</li>
